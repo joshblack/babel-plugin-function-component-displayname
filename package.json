@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-functional-component-displayname",
   "version": "1.0.0",
-  "description": "",
+  "description": "Babel plugin for adding a displayName property onto Functional Components",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
